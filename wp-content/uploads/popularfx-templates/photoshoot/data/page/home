@@ -1,0 +1,822 @@
+[pl_post_props pagelayer-id="w2s18hg6c5bjxdt8"  post_title="Home" post_name="home" featured_image="" ele_bg_hover_delay="400" ele_css="html{
+scroll-behavior: smooth;
+}" post_excerpt="" post_status="publish"]
+[/pl_post_props]
+[pl_row pagelayer-id="Aay5ZOx9IwweC0eK"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0em,0em,0em,0em" ele_padding_mobile="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_tablet="1px,1px,1px,1px" ele_margin_tablet="1px,1px,1px,1px"]
+[pl_col pagelayer-id="i62RXNcY2ShfwwdX"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding_mobile="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_image pagelayer-id="cKZU5oDvykoKqagP"  id="{{theme_url}}/images/aboutme.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" icon="" icon_color="#ffffffff" icon_size="75" overlay_bg_type="color" overlay_bg="#0000001c" content_position="center" link_type="custom_url" link="https://www.youtube.com/watch?v=WTagooKJMjE" target="true" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="MeB7zN1di5Fzu1gq"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="3em,2em,0em,3em" ele_padding_tablet="0em,2em,0em,2em" ele_padding_mobile="0px,10px,0px,20px" ele_margin_tablet="1px,1px,1px,1px" ele_zindex="9"]
+[pl_heading pagelayer-id="kqRroIyuVfeLvwYl"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",50,,,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_margin="5em,0em,0em,0em" ele_zindex="9"]
+
+
+
+
+
+
+
+
+
+
+
+<strong>About</strong> Me[/pl_heading]
+[pl_divider pagelayer-id="qK8CCNOT4ftArz7Q"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="60" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,0em,4em"]
+[/pl_divider]
+[pl_heading pagelayer-id="GaQMXltQ6IlID7d1"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" align="left" heading_typo=",22,,700,,,Solid,,Uppercase,," ele_padding="1em,0em,1em,0em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+Here are a few things about me[/pl_heading]
+[pl_text pagelayer-id="f2V5qUsaIwgSndTe"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="OF0bzYm0ZsJOwzjE"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="5"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="Ezlw4rxdrfSzisyu"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="5"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;"> Turpis egestas maecenas pharetra convallis. In hendrerit gravida rutrum quisque non. Erat pellentesque adipiscing commodo elit at. Adipiscing tristique risus nec feugiat in fermentum. Et egestas quis ipsum suspendisse ultrices.</p>[/pl_text]
+[pl_text pagelayer-id="yl5DtCp602wJrBIQ"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="9"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui sed do eiusmod tempor incididunt dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="JyzDZCD2N2mxRcye"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="9"]
+
+
+
+<p style="text-align: left;">Phasellus euismod aliquet condimentum. Curabitur vitae posuere nisl. Nunc in felis sagittis, venenatis sem sit amet, elementum urna lorem.</p>[/pl_text]
+[pl_text pagelayer-id="EtHeFyES8KAIAxru"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="9"]
+
+
+
+<p style="text-align: left;">Duis commodo felis non iaculis rhoncus. Proin conv velit et gravida ornare. Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p>[/pl_text]
+[pl_heading pagelayer-id="krknr4tTRZKL0z3S"  heading_state="normal" color="#1b1919ff" ele_bg_hover_delay="400" heading_typo=",40,,600,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_tablet=",,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,," ele_margin="0px,0px,0px,0px" ele_zindex="9"]
+
+
+
+
+
+
+
+
+
+
+
+Danie Jackson[/pl_heading]
+[pl_divider pagelayer-id="cIUXZHuF1czHfbIt"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="60" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,0em,4em"]
+[/pl_divider]
+[pl_heading pagelayer-id="JQ6ocPhWk2IDwbQV"  heading_state="normal" color="#ccccccff" ele_bg_hover_delay="400" heading_typo=",85,,600,,,Solid,1,Uppercase,15," align="left" animation="fadeInUp" animation_delay="600" heading_typo_tablet=",71,,,,,Solid,,,," heading_typo_mobile=",75,,,,,Solid,,,," ele_margin="11em,0em,0em,-18em" ele_custom_pos="true" ele_align="0%" ele_height="" ele_css="{{element}}{
+transform: rotate(90deg);
+}" ele_custom_width="693px" ele_custom_height="656px" ele_position="absolute" ele_vposition="top" ele_vposition_offset="300px" ele_hposition="right" ele_hposition_offset="524px" ele_zindex="NaN" ele_custom_width_tablet="557px" ele_custom_height_tablet="942px" ele_vposition_offset_tablet="287px" ele_hposition_offset_mobile="-185px" ele_vposition_offset_mobile="337px"]
+
+
+
+
+
+
+
+
+
+
+
+Danie Jackson[/pl_heading]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="3h9k1ppj7VfiD6qo"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="2em,0em,0em,0em" ele_padding_mobile="1px,1px,1px,1px" ele_margin_mobile="0px,0px,0px,0px" ele_padding_tablet="1px,1px,1px,1px" ele_margin_tablet="1px,1px,1px,1px"]
+[pl_col pagelayer-id="j5FMRPJYt9t0SEqM"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding_mobile="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_image pagelayer-id="xfblSl0cwGXYOsPh"  id="{{theme_url}}/images/home01.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#3E8EF7" ele_bg_hover_delay="400" icon="" icon_color="#ffffffff" icon_size="75" overlay_bg_type="color" overlay_bg="#0000001c" content_position="center" link_type="custom_url" link="https://www.youtube.com/watch?v=WTagooKJMjE" target="true" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="r4fSSOHQJ5EQT3tg"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" ele_padding="3em,2em,0em,3em" ele_padding_tablet="0em,2em,0em,2em" ele_padding_mobile="0px,10px,0px,20px" ele_margin_tablet="1px,1px,1px,1px"]
+[pl_heading pagelayer-id="vh8WzKR8774wuoid"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" align="left" heading_typo=",25,,600,,,Solid,,Uppercase,," ele_padding="1em,0em,1em,0em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+Individual[/pl_heading]
+[pl_heading pagelayer-id="5dmxkLr7pbKtFGKW"  heading_state="normal" color="#bdac8eff" ele_bg_hover_delay="400" heading_typo=",60,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",40,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+Approach[/pl_heading]
+[pl_heading pagelayer-id="b8vFcY7pYekKEDL8"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" align="left" heading_typo=",25,,600,,,Solid,,Uppercase,," ele_padding="1em,0em,1em,0em" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+
+
+To The Choice[/pl_heading]
+[pl_heading pagelayer-id="UxrCM2YlDDH41Mlp"  heading_state="normal" color="" ele_bg_hover_delay="400" heading_typo=",45,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",35,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+Of Your Style[/pl_heading]
+[pl_divider pagelayer-id="18f5PgfdmirhL8Md"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="60" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,0em,4em"]
+[/pl_divider]
+[pl_text pagelayer-id="N35YtDLd3hnoRI05"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="qT1nbmJsNwvhptGf"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;"> Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.  Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="gGP6AzmNFTD0rKzQ"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;"> Turpis egestas maecenas pharetra convallis. In hendrerit gravida rutrum quisque non. Erat pellentesque adipiscing commodo elit at. Adipiscing tristique risus nec feugiat in fermentum. Et egestas quis ipsum suspendisse ultrices.</p>[/pl_text]
+[pl_text pagelayer-id="1y7ofpojsTcg28bi"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: left;">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui sed do eiusmod tempor incididunt dolore magna aliqua. </p>[/pl_text]
+[pl_text pagelayer-id="ArdWRKsWRMTOZNXo"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,10%,0%,0%" ele_zindex="9"]
+
+
+
+<p style="text-align: left;">Phasellus euismod aliquet condimentum. Curabitur vitae posuere nisl. Nunc in felis sagittis, venenatis sem sit amet, elementum urna lorem.</p>[/pl_text]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="zwt5DmOC5oN02V5v"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="4em,0em,0em,0em" ele_padding_mobile="2em,0em,2em,0em" ele_padding_tablet="3em,0em,0em,0em"]
+[pl_col pagelayer-id="Wa7JMuWVsm3atD2G"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="qb8fQYYcN4aTvP8Y"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",40,,,,,Solid,1,Uppercase,4," align="center" animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+<strong>we</strong> Do[/pl_heading]
+[pl_divider pagelayer-id="IFCEc714PggBbDWI"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="23" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" divider_widht_mobile="25"]
+[/pl_divider]
+[pl_text pagelayer-id="WIobJTNNCMFUN0Cy"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,0%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  dolor in<br>tempor incididunt ut labore et dolore magna aliqua,  eiusmod tempor<br /> incididunt dolore</p>[/pl_text]
+[pl_inner_row pagelayer-id="e2sj6qb5InMOfrmb"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0em,0em,2em,0em" ele_padding_mobile="0px,0px,1px,0px"]
+[pl_inner_col pagelayer-id="4Gw7s2biiaQauXCN"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4" animation="fadeInLeft" animation_delay="600"]
+[pl_image pagelayer-id="bP6PpwsAaAEDi8CF"  id="{{theme_url}}/images/photo1.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading pagelayer-id="Pvaquuo3Hg05lKpI"  heading_state="normal" color="#bdac8eff" ele_bg_hover_delay="400" heading_typo=",40,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="7em,0em,0em,1em"]
+
+
+
+
+Studio[/pl_heading]
+[pl_heading pagelayer-id="ONSCtxRJwAooxqAT"  heading_state="normal" color="" ele_bg_hover_delay="400" heading_typo=",35,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0px,0px,0px,20px"]
+
+
+
+
+
+
+
+
+
+
+Photography[/pl_heading]
+[pl_divider pagelayer-id="AV71wGEWE8qRiDIU"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="68" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,5em,1em"]
+[/pl_divider]
+[pl_image pagelayer-id="9H8ZOITQ1neEOpMr"  id="{{theme_url}}/images/photo4.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="xRMu11wKsKHhJqnc"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_heading pagelayer-id="BCL0I25YzFhRiyzX"  heading_state="normal" color="#bdac8eff" ele_bg_hover_delay="400" heading_typo=",40,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="8em,0em,0em,1em"]
+
+
+
+
+
+
+
+
+
+
+Commercial[/pl_heading]
+[pl_heading pagelayer-id="lSxo2oOyclKsLYXF"  heading_state="normal" color="" ele_bg_hover_delay="400" heading_typo=",35,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0px,0px,0px,20px"]
+
+
+
+
+
+
+
+
+
+
+Photography[/pl_heading]
+[pl_divider pagelayer-id="ZcGJdN4id1i7dQz6"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="68" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,6em,1em"]
+[/pl_divider]
+[pl_image pagelayer-id="326On0c0Fo8QpMXd"  id="{{theme_url}}/images/photo3.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_heading pagelayer-id="FMFM05uVcZk4vdnb"  heading_state="normal" color="#bdac8eff" ele_bg_hover_delay="400" heading_typo=",40,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="6em,0em,0em,1em"]
+
+
+
+
+fashion[/pl_heading]
+[pl_heading pagelayer-id="SqeLQHgDmGFM9Th7"  heading_state="normal" color="" ele_bg_hover_delay="400" heading_typo=",35,,700,,,Solid,1,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," ele_padding="0px,0px,0px,20px"]
+
+
+
+
+
+
+
+
+
+
+Photography[/pl_heading]
+[pl_divider pagelayer-id="7NlIzUyr2i2Y2H3G"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="68" divider_gap="10" divider_alignment="left" ele_bg_hover_delay="400" divider_widht_mobile="25" ele_padding="0em,0em,3em,1em"]
+[/pl_divider]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="p0rNgEYAHyNDSWY4"  widget_space="-1" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_image pagelayer-id="rwTaAH3PWA7I3Yqq"  id="{{theme_url}}/images/photo2.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="39VVYOuy1Fdflk42"  id="{{theme_url}}/images/photo5.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" overlay="true" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" animation="fadeInRight" animation_delay="600"]
+
+
+
+
+
+
+
+
+<p style="text-align: left; padding-left: 30px; text-transform: uppercase;"><span style="font-size: 30px; color: rgb(255, 255, 255); text-align: left;">Wedding</span></p>
+<p style="text-align: left;"><span style="color: rgb(255, 255, 255); text-transform: uppercase; font-size: 35px; padding-left: 30px;">Photography</span></p>[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="S2kDd3uE0rJQ6Det"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="4em,0em,0em,0em" ele_padding_mobile="0em,0em,2em,0em" ele_padding_tablet="2em,0em,0em,0em"]
+[pl_col pagelayer-id="03ClCcOwd0m7yXLQ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="6nEgl71AUTelEuoC"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",40,,,,,Solid,1,Uppercase,4," align="center" animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+Our Awesome <strong>Work</strong>[/pl_heading]
+[pl_divider pagelayer-id="qfyfkVGnHMxFd8Xh"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="23" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" divider_widht_mobile="25"]
+[/pl_divider]
+[pl_text pagelayer-id="1udDeSRW85YizCip"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,0%,0%,0%"]
+
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  dolor in<br>tempor incididunt ut labore et dolore magna aliqua,  eiusmod tempor<br /> incididunt dolore</p>[/pl_text]
+[pl_inner_row pagelayer-id="bRGEbdSTDPnmzTVR"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="2em,0em,2em,0em" ele_padding_mobile="0px,0px,1px,0px" ele_css="{{element}} .pagelayer-image:hover{
+z-index: 9;
+}"]
+[pl_inner_col pagelayer-id="gRrUpeS6ZNvIa1Dv"  widget_space="-1" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" animation="fadeInLeft" animation_delay="600"]
+[pl_image pagelayer-id="epUzeJhHDmVk9OPo"  id="{{theme_url}}/images/work1.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="rsR6BQfNUCNE95sd"  id="{{theme_url}}/images/work2.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="dVTTcxSF9WvGsBAK"  id="{{theme_url}}/images/work3.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="HhlOxxp1hMsdjKWx"  id="{{theme_url}}/images/work4.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Ia9h6EAktkfiAG49"  widget_space="-1" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_image pagelayer-id="FnkpWYvMYM1Q6akp"  id="{{theme_url}}/images/work5.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="J3HvBmJKre56Erbz"  id="{{theme_url}}/images/work6.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="gxLWNyd3CskZ8ZJb"  id="{{theme_url}}/images/work7.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="KjYCCfxM8djV9zN8"  id="{{theme_url}}/images/work8.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" overlay="true" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow" ele_css="{{element}} .pagelayer-image-holder img{
+height: 466px;
+}"]
+
+
+
+
+
+
+
+
+<p style="text-align: left; padding-left: 30px; text-transform: uppercase;"><span style="font-size: 30px; color: rgb(255, 255, 255); text-align: left;">Wedding</span></p>
+<p style="text-align: left;"><span style="color: rgb(255, 255, 255); text-transform: uppercase; font-size: 35px; padding-left: 30px;">Photography</span></p>[/pl_image]
+[pl_image pagelayer-id="Ni1pvfrMJaiffC93"  id="{{theme_url}}/images/work9.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="xoLW3nCyiLrHBN6E"  stretch="full" col_gap="10" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="" ele_padding="0em,0em,0em,0em" ele_margin="2em,0em,4em,0em" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_padding_tablet="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_margin_mobile="0em,0em,2em,0em" overlay_transperancy="0.5" overlay_color=" " ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png" ele_margin_tablet="0px,0px,0px,0px"]
+[pl_col pagelayer-id="oYPZ0ydKssy7xkv4"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0em,0em,0em,0em" ele_padding_mobile="2em,0em,0em,0em" ele_padding_tablet="3em,0em,0em,0em" animation="bounceIn"]
+[pl_counter pagelayer-id="BPfbiJRQe0tV9Ogm"  counter_start_number="1" counter_end_number="25" animation_duration="2000" counter_align="center" counter_text="Years Of Experience" counter_text_color="#161616ff" counter_text_style=",22,,600,,,Solid,,,2.5," counter_number_color="#bdac8eff" counter_number_style=",50,,600,,,Solid,2,,," ele_bg_hover_delay="400" counter_text_style_mobile=",18,,,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," animation="zoomIn" animation_delay="600" ele_margin_tablet="1px,0px,0px,0px" ele_padding_tablet="1px,0px,0px,0px" number_suffix="+"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="681N2R2JffOUyKHv"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_padding_tablet="0em,0em,0em,0em" animation="bounceIn" animation_delay="700"]
+[pl_counter pagelayer-id="DzcON36eefjEsx67"  counter_start_number="1" counter_end_number="300" animation_duration="2000" counter_align="center" counter_text="Clicks Per Day" counter_text_color="#161616ff" counter_text_style=",22,,600,,,Solid,,,2.5," counter_number_color="#bdac8eff" counter_number_style=",50,,600,,,Solid,2,,," ele_bg_hover_delay="400" counter_text_style_mobile=",18,,,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," animation="zoomIn" animation_delay="600" number_suffix="+"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="c3k43Ap4rCwXMh9S"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_padding_tablet="0em,0em,0em,0em" animation="bounceIn" animation_delay="70"]
+[pl_counter pagelayer-id="MmVaI3iHJEnERUkp"  counter_start_number="1" counter_end_number="100" animation_duration="2000" counter_align="center" counter_text="Photographer" counter_text_color="#161616ff" counter_text_style=",22,,600,,,Solid,,,2.5," counter_number_color="#bdac8eff" counter_number_style=",50,,600,,,Solid,2,,," ele_bg_hover_delay="400" counter_text_style_mobile=",18,,,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," animation="zoomIn" animation_delay="600" number_suffix="+"]
+[/pl_counter]
+[/pl_col]
+[pl_col pagelayer-id="NSQEvWA5x2mffPr9"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" ele_padding="0em,0em,0em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_padding_tablet="0em,0em,0em,0em" animation="bounceIn" animation_delay="80"]
+[pl_counter pagelayer-id="jzF021may87nQW2r"  counter_start_number="1" counter_end_number="2500" animation_duration="2000" counter_align="center" counter_text="Clients" counter_text_color="#161616ff" counter_text_style=",22,,600,,,Solid,,,2.5," counter_number_color="#bdac8eff" counter_number_style=",50,,600,,,Solid,2,,," ele_bg_hover_delay="400" counter_text_style_mobile=",18,,,,,Solid,,,," counter_number_style_mobile=",35,,,,,Solid,,,," animation="zoomIn" animation_delay="600" number_suffix="+"]
+[/pl_counter]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="jh6yrNKj2b89ZW5W"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="0em,0em,2em,0em" ele_padding_mobile="0em,0em,0em,0em" ele_padding_tablet="4em,0em,1em,0em" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/testimonial-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover"]
+[pl_col pagelayer-id="gYm4g3ijNDHd4GZp"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="L7mdA2iYXNGNi1EX"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",40,,600,,,Solid,1,Uppercase,4," align="center" ele_padding="0em,0em,0em,0em" animation="fadeInDown" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testimonial[/pl_heading]
+[pl_divider pagelayer-id="n6aL5VM41JTTvSkA"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="25" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" ele_padding="0em,0em,0em,0em" divider_weight_mobile="NaN" divider_widht_mobile="25"]
+[/pl_divider]
+[pl_testimonial_slider pagelayer-id="k2WmkfbUNA0AM57k"  slide_items="1" slide_margin="10" arrows_bg="#bdac8eff" arraow_color="#ffffffff" arraow_bg_size="50" arraow_bg_shape="100" ele_bg_hover_delay="400" slide_controls="arrows" animation="fadeInUp" animation_delay="600" ele_padding="20px,0px,0px,0px" nav_size="40" nav_size_mobile="30" arraow_bg_size_mobile="35"]
+[pl_testimonial pagelayer-id="K1JJFAwy6nESr5Sd"  image_position="top-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="250" img_shape="square" cite="- Heather Knight" cite_color="#181816ff" cite_style=",24,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,25,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="7,7,7,7" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-size: 17px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Uquis nostrud <br>exercitation ullamco commodo consequat. Donec viverra vel massa at posuere <br>Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="UfjEWjctNwxG4zUF"  image_position="top-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial2.jpg" testimonial_image_size="250" img_shape="square" cite="- Sergio Paula" cite_color="#10100fff" cite_style=",24,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,25,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="7,7,7,7" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-size: 17px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Uquis nostrud <br>exercitation ullamco commodo consequat. Donec viverra vel massa at posuere <br>Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="ClEdBUythQelfKZ6"  image_position="top-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial3.jpg" testimonial_image_size="250" img_shape="square" cite="- Laura Marsh" cite_color="#131211ff" cite_style=",24,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,24,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="7,7,7,7" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p style="font-size: 17px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Uquis nostrud <br>exercitation ullamco commodo consequat. Donec viverra vel massa at posuere <br>Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]

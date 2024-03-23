@@ -1,0 +1,230 @@
+[pl_post_props pagelayer-id="sy5FYJUm6suquaiy"  post_title="About Us" post_name="about" post_status="publish" featured_image="" ele_bg_hover_delay="400" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="gQvwjUob4IoKXNYj"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="18em,0em,10em,0em" ele_bg_type="image" ele_margin="-14em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#353737c9" ele_bg_img="{{theme_url}}/images/about.jpg" ele_padding_tablet="18em,0em,5em,0em" ele_padding_mobile="15em,0em,3em,0em"]
+[pl_col pagelayer-id="s6QHqynKKkgc9RGl"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="Y6YJburn6WG3WzSp"  heading_state="normal" color="#fafafaff" ele_bg_hover_delay="400" heading_typo=",50,,600,,,Solid,1,Uppercase,8," animation="fadeInUp" animation_delay="600" align="center" heading_typo_mobile=",25,,,,,Solid,1,,," heading_typo_tablet=",35,,,,,Solid,,,," ele_padding="2em,0em,0em,0em"]
+
+
+
+
+
+About Us[/pl_heading]
+[pl_divider pagelayer-id="o1JT4S649y5ZXatB"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="40" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ICqIxvzHNqX6xc4t"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="4em,0em,0em,0em" ele_padding_mobile="2em,0em,0em,0em" ele_margin_mobile="0px,0px,0px,0px" ele_padding_tablet="3em,0em,0em,0em" ele_margin_tablet="0px,0px,0px,0px"]
+[pl_col pagelayer-id="hBv0zIbOZZV4hued"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="5" ele_padding="0em,2em,0em,2em" ele_padding_tablet="0em,2em,0em,2em" ele_padding_mobile="0px,10px,0px,0px" ele_margin_tablet="1px,1px,1px,1px"]
+[pl_image pagelayer-id="I5xp843FFIXvYq6N"  id="{{theme_url}}/images/contact.jpg" id-size="full" align="left" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" animation="fadeInLeft" animation_delay="600"]
+
+
+
+
+
+[/pl_image]
+[/pl_col]
+[pl_col pagelayer-id="nwUs69YYNK8tT0ZQ"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="7" ele_padding_mobile="0px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+[pl_heading pagelayer-id="yhyBySEvwI6x7orS"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",30,,600,,,Solid,,Uppercase,4," align="left" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",25,,,,,Solid,,,,"]
+
+
+
+
+
+My Best Offers[/pl_heading]
+[pl_text pagelayer-id="oilXVnCsTPW43t9d"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p style="text-align: left;"> Turpis egestas maecenas pharetra convallis. In hendrerit gravida rutrum quisque non. Erat pellentesque adipiscing commodo elit at. Adipiscing tristique risus nec feugiat in fermentum. Et egestas quis ipsum suspendisse ultrices.</p>[/pl_text]
+[pl_iconbox pagelayer-id="ALtTCJKIYNyofn27"  service_icon="fas fa-exclamation-circle" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#f6f6f6ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Fashion Photography" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#131314ff" service_heading_typo=",20,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" service_icon_background_color="#bdac8eff" service_content_spacing="0,0,0,20" ele_padding="15px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="Gm0msSXW6KvfyuO0"  service_icon="far fa-gem" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#f6f6f6ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="LIFESTYLE PHOTOGRAPHY" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#131314ff" service_heading_typo=",20,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" service_icon_background_color="#bdac8eff" service_content_spacing="0,0,0,20" ele_padding="15px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_iconbox]
+[pl_iconbox pagelayer-id="mv92BABlUi6aXxWC"  service_icon="far fa-comment-dots" service_alignment="left" service_vertical_alignment="top" service_icon_view="stacked" service_icon_padding="15" service_icon_state="normal" service_icon_color="#f6f6f6ff" service_icon_font_size="35" service_icon_hover_delay="400" service_bor_state="normal" service_heading="FOOD + DRINK PHOTOGRAPHY" service_title_spacing="0,0,10,20" heading_state="normal" service_heading_color="#131314ff" service_heading_typo=",20,,600,,,Solid,,Uppercase,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" service_icon_background_color="#bdac8eff" service_content_spacing="0,0,0,20" ele_padding="15px,0px,0px,0px" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="woLShuvxlAjW4SZL"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" row_bg_type="parallax" parallax_img="{{theme_url}}/images/portfolio.jpg" overlay_type="color" overlay_color="#252c2da6" overlay_transperancy="0.5" ele_padding="4em,0em,4em,0em" ele_margin="4em,0em,2em,0em" ele_margin_tablet="3em,0em,0em,0em" ele_padding_tablet="3em,0em,3em,0em" ele_padding_mobile="2em,0em,2em,0em" ele_margin_mobile="2em,0em,0em,0em"]
+[pl_col pagelayer-id="RLMO9ZLr8OZzmVcp"  widget_space="15" overlay_hover_delay="400"]
+[pl_inner_row pagelayer-id="LUN3oP5T5IBJm1YT"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="gcbI51zxH3SMBQ1R"  widget_space="15" overlay_hover_delay="400"]
+[pl_heading pagelayer-id="JMX6gaGBx7IQyK1K"  heading_state="normal" color="#fcfcfcff" ele_bg_hover_delay="400" heading_typo=",40,,600,,,Solid,1,Uppercase,4," align="center" animation="fadeInUp" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+
+
+
+Portfolio[/pl_heading]
+[pl_divider pagelayer-id="fKceE3HK7xM4VhWt"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="25" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" ele_padding="0em,0em,0em,0em" divider_weight_mobile="NaN" divider_widht_mobile="25"]
+[/pl_divider]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_inner_row pagelayer-id="6l6ZHUvc4dSbM4R7"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100"]
+[pl_inner_col pagelayer-id="pzy3ZWqfYkKHliZv"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_service pagelayer-id="8HqQRU8887ajHe8q"  service_image="{{theme_url}}/images/port1.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Happy Riding" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="NaN" service_image_custom_size="NaN" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,0,20,15" animation="fadeInUp" animation_delay="500"]
+
+
+
+
+<p>Couple</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="wXG3ISgYU1OoF58P"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_service pagelayer-id="rqrVLmKOKsni2mEh"  service_image="{{theme_url}}/images/port2.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Landscape" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="NaN" service_image_custom_size="NaN" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,0,20,15" animation="fadeInUp" animation_delay="600"]
+
+
+
+
+<p>Seaface</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="XuEoe4UPtvYWnxjE"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_service pagelayer-id="ENov315a1QRfrgBu"  service_image="{{theme_url}}/images/port3.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Bicycle Riding" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="NaN" service_image_custom_size="NaN" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,0,20,15" animation="fadeInUp" animation_delay="700"]
+
+
+
+
+<p>Gadget</p>[/pl_service]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="3XHWLNG5AhvriNPn"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_service pagelayer-id="cM0YAbGhAW6HuWo9"  service_image="{{theme_url}}/images/port4.jpg" service_image_size="custom" service_alignment="top" service_vertical_alignment="top" img_bor_state="normal" img_filter="0,100,100,0,0,100,100" img_transition="400" img_filter_hover="0,100,100,0,0,100,100" service_heading="Baby Crying" service_title_spacing="20,0,10,15" heading_state="normal" service_heading_color="" service_heading_typo=",20,,600,,,Solid,,,," heading_transition="400" service_text_alignment="left" service_btn_hover_delay="400" service_image_height="NaN" service_image_custom_size="NaN" ele_bg_type="color" ele_bg_color="#ffffffff" service_content_spacing="0,0,20,15" animation="fadeInUp" animation_delay="700"]
+
+
+
+
+<p>Baby</p>[/pl_service]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="aBy9yEkKRWk3Rktu"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="3em,0em,4em,0em" ele_padding_mobile="2em,0em,2em,0em" ele_padding_tablet="3em,0em,2em,0em" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/testimonial-bg.jpg" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover"]
+[pl_col pagelayer-id="NrVRS7ABsCctffoj"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="Mjwys1Yd3qKVUbiB"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",40,,600,,,Solid,1,Uppercase,4," align="center" ele_padding="0em,0em,0em,0em" animation="fadeInDown" animation_delay="600" heading_typo_mobile=",25,,,,,Solid,,,," heading_typo_tablet=",30,,,,,Solid,,,,"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Testimonial[/pl_heading]
+[pl_divider pagelayer-id="o3QdYrfvOLhJFJR8"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="25" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" ele_padding="0em,0em,0em,0em" divider_weight_mobile="NaN" divider_widht_mobile="25"]
+[/pl_divider]
+[pl_testimonial_slider pagelayer-id="WJv8QtYFkBSnzKGk"  slide_items="3" slide_margin="10" arrows_bg="#bdac8eff" arraow_color="#ffffffff" arraow_bg_size="50" arraow_bg_shape="100" ele_bg_hover_delay="400" slide_controls="pager" animation="fadeInUp" animation_delay="600" ele_padding="20px,0px,0px,0px" nav_size="40" nav_size_mobile="30" arraow_bg_size_mobile="35" ele_css="{{element}} .pagelayer-testimonial-content{
+background-color: #fff;
+border: 2px solid #eee;
+padding: 20px 10px;
+}" active_pager_color="#bdac8eff" pager_color="#f8f9f9ff"]
+[pl_testimonial pagelayer-id="nCQPJDG8NhSTI5BR"  image_position="aside-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="110" img_shape="square" cite="- Heather Knight" cite_color="#181816ff" cite_style=",20,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,25,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="4,4,4,4" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+<p style="font-size: 16px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Donec viverra vel massa Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="2p1u1Lz2I6h9UZIc"  image_position="aside-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial2.jpg" testimonial_image_size="110" img_shape="square" cite="- Sergio Paula" cite_color="#10100fff" cite_style=",20,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,25,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="4,4,4,4" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+<p style="font-size: 16px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Donec viverra vel massa Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="84fncRuKtEVcMMZT"  image_position="aside-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial3.jpg" testimonial_image_size="110" img_shape="square" cite="- Laura Marsh" cite_color="#131211ff" cite_style=",20,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,24,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="4,4,4,4" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+<p style="font-size: 16px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Donec viverra vel massa Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[pl_testimonial pagelayer-id="dD592ZrSqw29e0Fi"  image_position="aside-position" alignment="center" author-spacing="22" avatar="{{theme_url}}/images/testimonial1.jpg" testimonial_image_size="110" img_shape="square" cite="- Heather Knight" cite_color="#131211ff" cite_style=",20,,700,,,Solid,,,," designation="" designation_color=" " cite_designation_style="Satisfy,24,,500,,,Solid,,,," ele_bg_hover_delay="400" testimonial_border_color="#bdac8eff" testimonial_border_width="4,4,4,4" cite_spacing="20,0,0,20" testimonial_border_type="solid"]
+
+
+
+
+
+<p style="font-size: 16px;">"Lorem ipsum dolor sit ametsed do eiusmodet dolore magna aliqua. Donec viverra vel massa Aliquam et fringilla augue consequat posuere sem." </p>[/pl_testimonial]
+[/pl_testimonial_slider]
+[/pl_col]
+[/pl_row]

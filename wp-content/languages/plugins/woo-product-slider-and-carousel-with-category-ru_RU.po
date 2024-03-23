@@ -1,0 +1,341 @@
+# Translation of Plugins - Product Slider and Carousel with Category for WooCommerce - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - Product Slider and Carousel with Category for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2023-08-10 06:53:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.7\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - Product Slider and Carousel with Category for WooCommerce - Development (trunk)\n"
+
+#: includes/admin/wcpscwc-how-it-work.php:113
+msgid "Enjoyed this plugin? You can help by rate this plugin <a href=\"%s\" target=\"_blank\">5 stars!</a>"
+msgstr "Вы насладились этим плагином? Вы можете помочь, оценив этот плагин <a href=\"%s\" target=\"_blank\">5 звезд!</a>"
+
+#: includes/admin/settings/premium.php:16
+msgid "Product Slider and Carousel with Category for WooCommerce </span>Including in <span class=\"wcpscwc-sf-blue\">Essential Plugin Bundle"
+msgstr "Слайдер и карусель товаров с категориями для WooCommerce </span>Включено в <span class=\"wcpscwc-sf-blue\">Набор основных плагинов"
+
+#: includes/admin/wcpscwc-how-it-work.php:123
+msgid "Product Slider Premium Features"
+msgstr "Функции премиум версии слайдера товаров"
+
+#: includes/admin/wcpscwc-how-it-work.php:95
+msgid "Check Free Demo"
+msgstr "Бесплатная демонстрация"
+
+#: includes/admin/wcpscwc-how-it-work.php:92
+msgid "Demo"
+msgstr "Демонстрация"
+
+#: includes/admin/class-wcpscwc-admin.php:61
+msgid "Solutions & Features"
+msgstr "Решения и функции"
+
+#: includes/admin/class-wcpscwc-admin.php:61
+msgid "Solutions & Features - Woo - Product Slider/Carousel"
+msgstr "Решения и функции - Woo - Слайдер/Карусель товаров"
+
+#: includes/admin/wcpscwc-how-it-work.php:160
+msgid "Grab Product Slider/Carousel Now"
+msgstr "Захватите сейчас слайдер/карусель товаров."
+
+#: includes/admin/wcpscwc-how-it-work.php:86
+msgid "Check Documentation"
+msgstr "Ознакомиться с документацией"
+
+#. Author of the plugin
+msgid "WP OnlineSupport, Essential Plugin"
+msgstr "WP OnlineSupport, Essential Plugin"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://www.essentialplugin.com/wordpress-plugin/woo-product-slider-carousel-category/"
+msgstr "https://www.essentialplugin.com/wordpress-plugin/woo-product-slider-carousel-category/"
+
+#: woo-product-slider-carousel.php:192
+msgid "It looks like you had FREE version %s of this plugin activated. To avoid conflicts the extra version has been deactivated and we recommend you delete it."
+msgstr "Похоже, что у вас была активирована БЕСПЛАТНАЯ версия %s этого плагина. Во избежание конфликтов дополнительная версия была деактивирована, и мы рекомендуем вам удалить ее."
+
+#: woo-product-slider-carousel.php:191
+msgid "Thank you for activating %s"
+msgstr "Спасибо за активацию %s"
+
+#: includes/shortcodes/products-slider.php:30
+#: includes/shortcodes/products-slider.php:38
+msgid "Product Grid View - Shortcode"
+msgstr "Вид сетки товара - шорткод"
+
+#: includes/admin/wcpscwc-how-it-work.php:75
+msgid "Product in slider Shortcode"
+msgstr "Шорткод слайдер Товара"
+
+#: includes/admin/supports/gutenberg-block.php:142
+msgid "WPOS Blocks"
+msgstr "Блоки WPOS"
+
+#: includes/admin/class-wcpscwc-admin.php:64
+msgid "Upgrade To PRO"
+msgstr "Обновить до Pro"
+
+#: includes/admin/class-wcpscwc-admin.php:64
+msgid "Upgrade To PRO - Woo Product Slider"
+msgstr "Обновить до PRO - Woo Product Slider"
+
+#: includes/admin/class-wcpscwc-admin.php:58
+msgid "Woo - Product Slider"
+msgstr "Woo - слайдер товаров"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:318
+msgid "Sorry, Something happened wrong."
+msgstr "Извините, что-то пошло не так."
+
+#: wpos-plugins/includes/admin/views/dashboard.php:312
+msgid "Sorry, No result found. Please refine your search."
+msgstr "Извините, ничего не найдено. Уточните свой поиск."
+
+#: wpos-plugins/includes/admin/views/dashboard.php:301
+msgid "<strong>Compatible</strong> with your version of WordPress"
+msgstr "<strong>Совместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:299
+msgid "<strong>Incompatible</strong> with your version of WordPress"
+msgstr "<strong>Несовместимо</strong> с вашей версией WordPress"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:297
+msgid "Untested with your version of WordPress"
+msgstr "Не тестировалось с вашей версией WordPress"
+
+#. translators: %s: Number of installations.
+#: wpos-plugins/includes/admin/views/dashboard.php:290
+msgid "%s Active Installations"
+msgstr "%s Активные установки"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:285
+msgctxt "Active plugin installations"
+msgid "Less Than 10"
+msgstr "Менее 10"
+
+#. translators: %s: Number of millions.
+#: wpos-plugins/includes/admin/views/dashboard.php:281
+msgctxt "Active plugin installations"
+msgid "%s+ Million"
+msgid_plural "%s+ Million"
+msgstr[0] "Более %s миллиона"
+msgstr[1] "Более %s миллионов"
+msgstr[2] "Более %s миллионов"
+
+#. translators: %s: Human-readable time difference.
+#: wpos-plugins/includes/admin/views/dashboard.php:271
+msgid "%s ago"
+msgstr "%s назад"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:268
+msgid "Last Updated:"
+msgstr "Последнее обновление:"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:223
+msgid "More Details"
+msgstr "Детали"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:221
+msgid "More information about %s"
+msgstr "Больше информации про %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:210
+msgctxt "plugin"
+msgid "Installed"
+msgstr "Установлен"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:197
+msgctxt "plugin"
+msgid "Network Activate %s"
+msgstr "Активировать для сети %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:195
+msgid "Network Activate"
+msgstr "Активировать для сети"
+
+#. translators: %s: Plugin name.
+#: wpos-plugins/includes/admin/views/dashboard.php:184
+msgctxt "plugin"
+msgid "Activate %s"
+msgstr "Активировать %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:182
+msgid "Activate"
+msgstr "Активировать"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:179
+msgctxt "plugin"
+msgid "Active"
+msgstr "Активные"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:168
+msgctxt "plugin"
+msgid "Cannot Update"
+msgstr "Невозможно обновить"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:163
+msgid "Update Now"
+msgstr "Обновить сейчас"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:161
+msgid "Update %s now"
+msgstr "Обновить %s сейчас"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:146
+msgctxt "plugin"
+msgid "Cannot Install"
+msgstr "Невозможно установить"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:141
+msgid "Install Now"
+msgstr "Установить сейчас"
+
+#. translators: %s: Plugin name and version.
+#: wpos-plugins/includes/admin/views/dashboard.php:139
+msgid "Install %s now"
+msgstr "Установить %s сейчас"
+
+#. translators: %s: Plugin author.
+#: wpos-plugins/includes/admin/views/dashboard.php:110
+msgid "By %s"
+msgstr "Автор %s"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:75
+msgid "Search Plugins e.g popup"
+msgstr "Поиск плагинов, например, popup"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:70
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:69
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:68
+msgid "Utility Plugins"
+msgstr "Плагины утилит"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:67
+msgid "All Essential Plugins"
+msgstr "Все основные плагины"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:59
+msgid "Essential Plugin"
+msgstr "Essential Plugin"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:319
+msgid "here"
+msgstr "здесь"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:45
+#: wpos-plugins/includes/admin/views/dashboard.php:319
+msgid "You can take a look at our all plugins at"
+msgstr "Вы можете ознакомиться со всеми нашими плагинами на"
+
+#: wpos-plugins/includes/admin/views/dashboard.php:44
+msgid "Sorry, It looks like that you do not have permission to install the plugin."
+msgstr "Извините, похоже, у вас нет разрешения на установку плагина."
+
+#: wpos-plugins/includes/admin/class-espbw-admin.php:36
+msgid "Install Popular Plugins From Us"
+msgstr "Установка популярных плагинов от нас"
+
+#: wpos-plugins/includes/admin/class-espbw-admin.php:36
+msgid "Essential Plugins Bundle By WP OnlineSuport"
+msgstr "Пакет плагинов Essential Plugins Bundle By WP OnlineSuport"
+
+#: wpos-plugins/wpos-recommendation.php:60
+#: wpos-plugins/wpos-recommendation.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr "Хакер, что ли?"
+
+#: includes/admin/wcpscwc-how-it-work.php:44
+msgid "Getting Started"
+msgstr "Приступая к работе"
+
+#. Plugin Name of the plugin
+msgid "Product Slider and Carousel with Category for WooCommerce"
+msgstr "Product Slider and Carousel with Category for WooCommerce"
+
+#. Description of the plugin
+msgid "Display Woocommerce Product Slider/Carousel, Woocommerce Best Selling Product Slider/Carousel, Woocommerce Featured Product Slider/Carousel with category. Also work with Gutenberg shortcode block."
+msgstr "Отображает слайдер/карусель товаров Woocommerce: самый продаваемый товар,  рекомендуемый товаров с категорией. Также работайте с блоком шорткодов Gutenberg."
+
+#: includes/admin/wcpscwc-how-it-work.php:53
+msgid "Step-6. You can also use <b>Category ID with all 3 shortcode</b> to filter the products category wise."
+msgstr "Step-6. Для фильтрации категорий товаров можно также использовать <b> ID категории со всеми 3 шорткодами</b>."
+
+#: includes/admin/wcpscwc-how-it-work.php:109
+msgid "Help to improve this plugin!"
+msgstr "Помогите улучшить плагин!"
+
+#: includes/admin/wcpscwc-how-it-work.php:83
+msgid "Documentation"
+msgstr "Документация"
+
+#: includes/admin/wcpscwc-how-it-work.php:77
+msgid "Featured Product in slider Shortcode"
+msgstr "Шорткод слайдера Рекомендуемый товар"
+
+#: includes/admin/wcpscwc-how-it-work.php:76
+msgid "Best Selling Product in slider Shortcode"
+msgstr "Шорткод слайдера Самый продаваемый товар"
+
+#: includes/admin/wcpscwc-how-it-work.php:72
+msgid "All Shortcodes"
+msgstr "Все шорткоды"
+
+#: includes/admin/wcpscwc-how-it-work.php:65
+msgid "Step-2. Put below shortcode as per your need."
+msgstr "Шаг 2. Поместите ниже шорткод в соответствии с вашими потребностями."
+
+#: includes/admin/wcpscwc-how-it-work.php:64
+msgid "Step-1. Create a page like Product Slider OR Best Selling Products."
+msgstr "Шаг 1. Создайте страницу, напр., Слайдер продукта или Лучшие товары продаж."
+
+#: includes/admin/wcpscwc-how-it-work.php:60
+msgid "How Shortcode Works"
+msgstr "Как работает шорткод"
+
+#: includes/admin/wcpscwc-how-it-work.php:52
+msgid "Step-5. C) Featured Product in slider : Display all Featured selling products. To select a product as a featured click on STAR button on product list."
+msgstr "Шаг-5. C) Слайдер Рекомендованный товар: Отображение всех рекомендуемых продаваемых товаров. Чтобы выбрать товар в качестве избранного, нажмите кнопку ЗВЕЗДА в списке товаров."
+
+#: includes/admin/wcpscwc-how-it-work.php:51
+msgid "Step-4. B) Best Selling Product in slider : Display all best selling products"
+msgstr "Шаг-4. B) Слайдер Самый продаваемый продукт: Отображать все самые продаваемые товары"
+
+#: includes/admin/wcpscwc-how-it-work.php:50
+msgid "Step-3. A) Product Slider : Display all latest products "
+msgstr "Шаг 3. A) Слайдер товаров: отображение всех последних товаров "
+
+#: includes/admin/wcpscwc-how-it-work.php:49
+msgid "Step-2. A) Product Slider, B) Best Selling Product in slider, C) Featured Product in slider"
+msgstr "Шаг 2. A) Слайдер Товара, B) Слайдер Самый продаваемый товар, C) Слайдер Рекомендуемый товар"
+
+#: includes/admin/wcpscwc-how-it-work.php:48
+msgid "Step-1. This plugin is use to slide Products with 3 option"
+msgstr "Шаг 1. Этот плагин используется для слайдов товаров с 3 вариантами"
+
+#: includes/admin/wcpscwc-how-it-work.php:36
+msgid "How It Works - Display and Shortcode"
+msgstr "Как это работает - отображение и шорткод"
+
+#: includes/admin/wcpscwc-how-it-work.php:27
+msgid "How It Works"
+msgstr "Как это работает"
+
+#: woo-product-slider-carousel.php:157
+msgid "<p><strong>%s</strong> recommends the following plugin to use.</p>"
+msgstr "<p><strong>%s</strong> рекомендует использовать следующий плагин.</p>"

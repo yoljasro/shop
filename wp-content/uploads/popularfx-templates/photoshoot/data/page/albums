@@ -1,0 +1,155 @@
+[pl_post_props pagelayer-id="m8VUQpySFVp30PxS"  post_title="Albums" post_name="albums" post_status="publish" featured_image="" ele_bg_hover_delay="400" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="meVjkufRbU1a9jwD"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="18em,0em,10em,0em" ele_bg_type="image" ele_margin="-14em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#353737c9" ele_bg_img="{{theme_url}}/images/albums.jpg" ele_padding_tablet="18em,0em,5em,0em" ele_padding_mobile="15em,0em,3em,0em"]
+[pl_col pagelayer-id="khCiuVFA3dll3D0a"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="IMC71NDUdsUsw2eC"  heading_state="normal" color="#fafafaff" ele_bg_hover_delay="400" heading_typo=",50,,600,,,Solid,1,Uppercase,8," animation="fadeInUp" animation_delay="600" align="center" heading_typo_mobile=",25,,,,,Solid,1.5,,," heading_typo_tablet=",35,,,,,Solid,,,," ele_padding="2em,0em,0em,0em"]
+
+
+
+Awesome Collections[/pl_heading]
+[pl_divider pagelayer-id="Vr8E55PaJX2HF692"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="40" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="GAxt6ws4N6MkRQlB"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_padding="4em,0em,0em,0em" ele_padding_mobile="2em,0em,0em,0em"]
+[pl_col pagelayer-id="n9oRrLj1DsRPddY1"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_flipbox pagelayer-id="6SySZurznvGmU1Dp"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Life Style" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,Solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work2.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[pl_flipbox pagelayer-id="Z049xzE9PH58ytEo"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Feel the world" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,Solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work5.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[/pl_col]
+[pl_col pagelayer-id="yy2F0BEfHDonNqi1"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_flipbox pagelayer-id="kfBFYwhIwkib9HIJ"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Freedom" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work3.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[pl_flipbox pagelayer-id="1eee5GpybLgs2hiU"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Fashion" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work6.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[/pl_col]
+[pl_col pagelayer-id="11NyHyoqTro2bPYr"  widget_space="15" overlay_hover_delay="400" col="2"]
+[pl_flipbox pagelayer-id="5DemPBy0TCi7VYMq"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Gray Shades" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work4.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[pl_flipbox pagelayer-id="45l8kZ2vTMDZQ6B8"  height="487" content_width="100" flip_animation="slide" animation_direction="up" animation_duration="600" front-text-align="center" front_heading="Yellow" heading_color="#ffffff" heading_typography=",25,,500,,,Solid,,Uppercase,," front_content="" front_content_color="#ffffff" front_content_typography=",16,,500,,,solid,,,," front_section_padding="100,100,100,100" back-text-align="center" back_heading="" back_heading_color="#000000" back_heading_typography="Poppins,40,,500,,,solid,,,," back_content="" back_content_color="#3c3f40" back_content_typography=",16,,500,,,solid,,,," back_button_color="#ffffff" back_button_bg_color="#0986c0" back_btn_hover_delay="400" back_section_padding="100,100,100,100" front_background_type="color" front_background_color="#14151581" ele_bg_type="image" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" back_button_text="Click Here!" back_button_typography=",20,,500,,,solid,,,," back_button_type="pagelayer-btn-default" back_button_size="pagelayer-btn-mini" back_btn_spacing="10" back_background_type="color" back_background_color="#00ccff00" heading_element="" heading_image_size="full" heading_image_spacing="20" ele_bg_img="{{theme_url}}/images/work7.jpg" animation="fadeIn" animation_delay="600"]
+[/pl_flipbox]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="ZEtLdJRcStqHTy2c"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="4em,0em,0em,0em" ele_padding_mobile="2em,0em,2em,0em" ele_padding_tablet="3em,0em,0em,0em"]
+[pl_col pagelayer-id="plkzZGu3eSjsdnMl"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="U6JHXhFte2Mn5255"  heading_state="normal" color="#111111" ele_bg_hover_delay="400" heading_typo=",40,,,,,Solid,1,Uppercase,4," align="center" animation="fadeInUp" animation_delay="600" heading_typo_tablet=",30,,,,,Solid,,,," heading_typo_mobile=",25,,,,,Solid,,,,"]
+
+
+
+
+
+Our Awesome <strong>Work</strong>[/pl_heading]
+[pl_divider pagelayer-id="VFjsFnv07cM2HJWy"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="23" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400" divider_widht_mobile="25"]
+[/pl_divider]
+[pl_text pagelayer-id="gpym3IEUJxOBwSoN"  ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600" ele_padding="0%,0%,0%,0%"]
+
+
+
+
+
+
+
+
+
+<p style="text-align: center;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod  dolor in<br>tempor incididunt ut labore et dolore magna aliqua,  eiusmod tempor<br /> incididunt dolore</p>[/pl_text]
+[pl_inner_row pagelayer-id="oQJcu72dyWbyif34"  stretch="full" col_gap="0" width_content="full" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="2em,0em,0em,0em" ele_padding_mobile="0px,0px,1px,0px" ele_css="{{element}} .pagelayer-image:hover{
+z-index: 9;
+}"]
+[pl_inner_col pagelayer-id="OZBxsWZPzQ5pGqTF"  widget_space="-1" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6" animation="fadeInLeft" animation_delay="600"]
+[pl_image pagelayer-id="pgKkiyZaGvjhpOqe"  id="{{theme_url}}/images/work1.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="swpYUkai0pCWN5T1"  id="{{theme_url}}/images/work2.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="oRCsKMsGnQb8LPAV"  id="{{theme_url}}/images/work3.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="9HMbOCBixTf6BZem"  id="{{theme_url}}/images/work4.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow"]
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="Tv7ZmKyWy3TmHmaS"  widget_space="-1" overlay_hover_delay="400" ele_bg_hover_delay="400" col="6"]
+[pl_image pagelayer-id="VdQK3aQqrRAEzLY6"  id="{{theme_url}}/images/work5.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="VskKYzsEIs5FoKr6"  id="{{theme_url}}/images/work6.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="RQVj7wXEz2HYim9X"  id="{{theme_url}}/images/work7.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[pl_image pagelayer-id="iygHG1ey3KOOk3aN"  id="{{theme_url}}/images/work8.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" max-width="NaN" custom_size="500x350" icon="" icon_color="#e6cf03" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" anim_hover="grow" ele_css="{{element}} .pagelayer-image-holder img{
+height: 466px;
+}"]
+
+
+[/pl_image]
+[pl_image pagelayer-id="ow0WFIivEPrlmNE7"  id="{{theme_url}}/images/work9.jpg" id-size="full" align="center" img_hover="hover" img_hover_delay="400" caption_color="#0986c0" ele_css="{{element}} .pagelayer-image-holder img{
+height: 750px;
+}" anim_hover="grow"]
+
+
+
+
+
+
+
+
+[/pl_image]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

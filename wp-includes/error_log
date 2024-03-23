@@ -1,0 +1,12 @@
+[23-Dec-2020 18:37:25 Asia/Tashkent] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/delivery/public_html/wp-includes/class-oembed.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/delivery/public_html/wp-includes/class-oembed.php on line 12
+[04-Jul-2021 02:39:22 Asia/Tashkent] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/delivery/public_html/wp-includes/functions.php on line 8
+[04-Jul-2021 02:39:22 Asia/Tashkent] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/delivery/public_html/wp-includes/functions.php on line 8
+[04-Jul-2021 02:39:22 Asia/Tashkent] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/delivery/public_html/wp-includes/functions.php on line 8
+[04-Jul-2021 02:39:22 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/delivery/public_html/wp-includes/functions.php on line 8
+[18-Jul-2021 03:24:48 Asia/Tashkent] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/delivery/public_html/wp-includes/functions.php on line 8
+[18-Jul-2021 03:24:48 Asia/Tashkent] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/delivery/public_html/wp-includes/functions.php on line 8
+[18-Jul-2021 03:24:48 Asia/Tashkent] PHP Warning:  require(ABSPATHWPINC/option.php): failed to open stream: No such file or directory in /home/delivery/public_html/wp-includes/functions.php on line 8
+[18-Jul-2021 03:24:48 Asia/Tashkent] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/option.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/delivery/public_html/wp-includes/functions.php on line 8

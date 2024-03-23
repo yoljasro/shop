@@ -1,0 +1,33 @@
+[pl_row pagelayer-id="u3xOndqEz9SI8knA"  stretch="auto" col_gap="10" width_content="auto" row_height="default" column_pos="default" content_pos="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="color" ele_bg_color="#ffffff00" ele_margin="0%,0%,0%,0%" ele_margin_tablet="0%,0%,0%,0%" ele_margin_mobile="0%,0%,0%,0%" ele_padding="0%,0%,0%,0%" border_width="0px,0px,1px,0px" border_color="#dbdcddff" overlay_transperancy="0.5" overlay_color="#1d2021e0" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png" ele_zindex="28"]
+[pl_col pagelayer-id="Dds56lDCjMho8XXj"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="3" content_pos="center"]
+[pl_inner_row pagelayer-id="VtVvgClJa05vjAMb"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_margin="0px,0px,0px,0px" ele_padding="20px,0px,0px,0px"]
+[pl_inner_col pagelayer-id="CMHaxOfL4snPKLFZ"  widget_space="9" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="30"]
+[pl_wp_title pagelayer-id="k1fP2w6YbzV3i748"  site_name="Photoshoot" site_title_style=",25,,700,,,Solid,1,Uppercase,," site_title_state="normal" text-align="center" ele_bg_hover_delay="400" title_color="#bdac8eff" ele_align="50%" ele_height="auto" text-align_tablet="center" text-align_mobile="center" logo_img_size="custom" align="left" vertical_align="middle" logo_img_type="custom-logo" logo_img_custom_size="15" logo_img_custom_size_tablet="20" ele_margin_tablet="0px,0px,0px,0px" title_padding="0,0,0,15" site_title_style_mobile=",23,,500,,,Solid,,,," logo_img_custom_size_mobile="45" logo_img="{{theme_url}}/images/logo.png" border_width="3px,3px,3px,3px" border_color="#f6f6f6ff" ele_padding="0px,0px,0px,0px" ele_custom_width="101px" border_radius="0em,0em,0em,0em" site_logo="true" title_padding_tablet="12,0,0,11" site_title_style_tablet=",26,,,,,Solid,,,," ele_margin_mobile="0px,0px,0px,0px"]
+[/pl_wp_title]
+[/pl_inner_col]
+[pl_inner_col pagelayer-id="SkumD3Lidn4HnDYD"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col_width="70"]
+[pl_wp_menu pagelayer-id="mV8pesoiJoYXxRvI"  nav_list="2" align="right" layout="horizontal" pointer="" m_animation="dropout" list_style="none" submenu_ind="caret-down" menu_bg_color_hover="#f9f9f8ff" horizontal_padding="20" vertical_padding="5" submenu_color="#ffffff" submenu_bg_color="#3e8ef7ff" submenu_horizontal_padding="10" submenu_vertical_padding="10" submenu_left_margin="10" menu_toggle_align="center" menu_toggle_bg_color="#fefefeff" menu_toggle_size="30" ele_bg_hover_delay="400" submenu_position="left" menu_color="#f1f1f1ff" menu_color_hover="#ffffffff" menu_bg_color_active=" " close_hover_delay="600" menu_typo=",14,,500,,,Solid,,Uppercase,1.2," menu_color_active="#f9f9f8ff" ele_padding="0px,0px,0px,0px" ele_align="margin" ele_height="auto" align_tablet="center" align_mobile="center" ele_margin="0px,0px,0px,0px" slide_style="pagelayer-wp_menu-right" menu_width="30" menu_items_width="100" menu_posy="8" menu_bg="color" close_size="25" close_padding="8" close_color="#bdac8eff" close_bg_color="#fefefeff" close_color_hover="#fbfbfbff" close_bg_color_hover="#bdac8eff" menu_items_bg="#3c3633ff" drop_breakpoint="tablet" menu_toggle_size_tablet="22" menu_toggle_padding_tablet="12" ele_margin_tablet="0px,0px,0px,0px" menu_posy_mobile="30" menu_width_mobile="60" ele_css="{{element}} .pagelayer-wp_menu-ul a {
+ justify-content: unset !important; }
+{{element}} .pagelayer-wp_menu-ul li.current-menu-item a,
+{{element}} .pagelayer-wp_menu-ul li a:hover{
+border-radius: 5px; 
+border: 1px solid #fff;
+}
+{{element}} .pagelayer-wp_menu-ul li a{
+border: 1px solid transparent;
+}
+@media screen and (max-width: 768px){
+.pagelayer-menu-type-dropdown .pagelayer-wp_menu-ul{
+margin-top: 60px;
+}
+{{element}} .pagelayer-wp_menu-ul li.current-menu-item a,
+{{element}} .pagelayer-wp_menu-ul li a:hover{
+border-radius: 5px; 
+border: 0px solid transparent;
+}
+}" menu_width_tablet="60" menu_toggle_align_tablet="right" menu_toggle_color="#bdac8eff" menu_toggle_align_mobile="right" menu_toggle_size_mobile="18" menu_toggle_padding_mobile="10" menu_bg_color=" " menu_down_width="100" ele_zindex="2" close_state="hover" menu_colors="active" menu_color_active_tablet="#bdac8eff" menu_color_hover_tablet="#bdac8eff" menu_color_hover_mobile="#bdac8eff" menu_color_active_mobile="#bdac8eff"]
+[/pl_wp_menu]
+[/pl_inner_col]
+[/pl_inner_row]
+[/pl_col]
+[/pl_row]

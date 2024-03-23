@@ -1,0 +1,89 @@
+[pl_post_props pagelayer-id="DgBErLTyOBQH4ugd"  post_title="Contact Us" post_name="contact" post_status="publish" featured_image="" ele_bg_hover_delay="400" post_excerpt=""]
+[/pl_post_props]
+[pl_row pagelayer-id="gBWorbOny5T7PWw1"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_padding="18em,0em,10em,0em" ele_bg_type="image" ele_bg_img="{{theme_url}}/images/slider2.jpg" ele_margin="-14em,0em,0em,0em" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="top" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_type="color" overlay_transperancy="0.6" overlay_color="#353737c9" ele_padding_tablet="18em,0em,5em,0em" ele_padding_mobile="15em,0em,3em,0em"]
+[pl_col pagelayer-id="BcziK9k70tdS5soL"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="mJ4to3mwaZbv5SC0"  heading_state="normal" color="#fafafaff" ele_bg_hover_delay="400" heading_typo=",50,,600,,,Solid,1,Uppercase,8," animation="fadeInUp" animation_delay="600" align="center" heading_typo_mobile=",25,,,,,Solid,1.5,,," heading_typo_tablet=",35,,,,,Solid,,,," ele_padding="2em,0em,0em,0em"]
+
+
+
+
+Get in touch with us[/pl_heading]
+[pl_divider pagelayer-id="PXcOb8HIExPBcvOh"  divider_style="solid" divider_color="#bdac8eff" divider_weight="2" divider_widht="40" divider_gap="10" divider_alignment="center" ele_bg_hover_delay="400"]
+[/pl_divider]
+[/pl_col]
+[/pl_row]
+[pl_row pagelayer-id="aZwONph14RxZAtMd"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" ele_bg_type="" ele_bg_color="" ele_padding="4em,0em,4em,0em" overlay_transperancy="0.8" overlay_img_attachment="scroll" overlay_bg_posx="center" overlay_bg_posy="center" overlay_bg_repeat="no-repeat" overlay_bg_size="cover" ele_padding_tablet="2em,0em,2em,0em" ele_padding_mobile="2em,0em,1em,0em" ele_bg_attachment="scroll" ele_bg_posx="center" ele_bg_posy="center" ele_bg_repeat="no-repeat" ele_bg_size="cover" overlay_color="#090909ff" ele_bg_img="http://sitepad.local/site-data/plugins/pagelayer-pro/images/default-image.png"]
+[pl_col pagelayer-id="6GHlPOzda2DmtVM1"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="8"]
+[pl_google_maps pagelayer-id="h0HlzLfA0IZHtXY3"  zoom="10" height="400" ele_bg_hover_delay="400" height_mobile="240"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New York, New York, USA[/pl_google_maps]
+[pl_contact pagelayer-id="RoVAvIxYOfrPWacX"  form="contact-form" name="Contact Form" form_position="left" space_label=",,10," input_padding="11,13" radio_padding="10,10" field_hover_delay="400" submit="Send" type="pagelayer-btn-custom" size="pagelayer-btn-custom" btn_hover_delay="400" icon_position="pagelayer-btn-icon-left" icon_spacing="5" ele_bg_hover_delay="400" placeholder_typo=",16,,600,,,Solid,,,," field_border_color="#f1f1f1ff" field_border_width="1,1,1,1" btn_bg_color="#040404f6" btn_color="#ffffff" placeholder_typo_mobile=",15,,,,,Solid,,,," placeholder_typo_tablet=",16,,,,,Solid,,,," animation="fadeInUp" animation_delay="600" form_placeholder_color="#161616ff" form_input_bg="#11131300" field_border_type="solid" btn_border_color=" " btn_border_width="0,0,0,0" btn_border_radius="0,0,0,0" btn_custom_size="14,30" btn_typo=",18,,,,,Solid,,Uppercase,," contect_btn_align="left" btn_border_type="solid" ele_margin="20px,0px,0px,0px"]
+[pl_contact_item pagelayer-id="2ytdww6MpNebyAKd"  label_name="Name" field_type="text" values="One
+Two" field_name="name" field_width="" space_between=",,10," ele_bg_hover_delay="400" label_as_holder="true" field_display="" field_width_mobile="100"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="SvRjmkgIbLNCeum3"  label_name="Email" field_type="email" values="One
+Two" field_name="email" field_width="" space_between="0,0,10,0" ele_bg_hover_delay="400" label_as_holder="true" field_display="" field_width_mobile="100" space_between_mobile="0,0,10,0"]
+[/pl_contact_item]
+[pl_contact_item pagelayer-id="28E04chlQDyuKF9W"  label_name="Message" field_type="textarea" values="One
+Two" field_name="message" field_width="" space_between="0,0,0,0" ele_bg_hover_delay="400" label_as_holder="true" field_display="" textarea_rows="4" field_width_mobile="100" space_between_mobile="0,0,0,0"]
+[/pl_contact_item]
+[/pl_contact]
+[/pl_col]
+[pl_col pagelayer-id="7bAq4dgVkYx1spw9"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400" col="4"]
+[pl_image pagelayer-id="GjNCHDyd6OojDDBN"  id="{{theme_url}}/images/contact.jpg" id-size="full" align="center" img_hover="normal" img_hover_delay="400" caption_color="#0986c0" overlay="true" icon="" icon_color="" icon_size="50" overlay_bg_type="color" overlay_bg="#00000052" content_position="center" show_always="true" animation="fadeInDown" animation_delay="600"]
+
+
+
+[/pl_image]
+[pl_inner_row pagelayer-id="X1fyEHeDArGxakjX"  stretch="auto" col_gap="10" width_content="auto" row_height="default" overlay_hover_delay="400" row_shape_top_color="#fff" row_shape_top_width="100" row_shape_top_height="100" row_shape_bottom_color="#fff" row_shape_bottom_width="100" row_shape_bottom_height="100" ele_bg_hover_delay="400" animation="fadeInUp" animation_delay="600"]
+[pl_inner_col pagelayer-id="OQdI08jBzrLHyZFS"  widget_space="15" overlay_hover_delay="400" ele_bg_hover_delay="400"]
+[pl_heading pagelayer-id="VieqWnpGDPaBJrqJ"  heading_state="normal" color="#0f0d0dff" ele_bg_hover_delay="400" heading_typo=",26,,600,,,Solid,1,Uppercase,2," align="left" animation="fadeInDown" animation_delay="600" heading_typo_mobile=",20,,,,,Solid,,,," ele_margin="20px,0px,0px,0px"]
+
+
+
+Info[/pl_heading]
+[pl_phone pagelayer-id="wYlENkdbsuPJfJR1"  icon="fas fa-mobile-alt" ele_bg_hover_delay="400" align="flex-start" icon_size="18" icon_color="#141213ff" animation="fadeInUp" animation_delay="600" color="#141212ff" typography="Open Sans,17,,,,,Solid,,,," space="15" align_tablet="flex-start" align_mobile="flex-start"]
+[/pl_phone]
+[pl_address pagelayer-id="yjg6d8Qlk2VQT8FM"  icon="fas fa-map-marker-alt" ele_bg_hover_delay="400" align="flex-start" icon_size="20" icon_color="#1f1c1dff" animation="fadeInUp" animation_delay="600" color="#141212ff" typography="Open Sans,17,,,,,Solid,,,," space="15" align_tablet="flex-start" align_mobile="flex-start" ele_css="@media screen and (max-width: 360px){
+{{element}} .pagelayer-address-holder{
+text-align: center;
+}
+}" space_mobile="0"]
+[/pl_address]
+[pl_email pagelayer-id="TqReGE7n3VCWxvzy"  icon="far fa-envelope-open" ele_bg_hover_delay="400" icon_color="#100f0fff" icon_size="20" align="flex-start" animation="fadeInUp" animation_delay="600" color="#1a1717ff" typography="Open Sans,17,,500,,,Solid,,,," space="15" align_tablet="flex-start" align_mobile="flex-start"]
+[/pl_email]
+[/pl_inner_col]
+[/pl_inner_row]
+[pl_heading pagelayer-id="a9LxEvbb047mandr"  heading_state="normal" color="#0f0d0dff" ele_bg_hover_delay="400" heading_typo=",26,,600,,,Solid,1,Uppercase,2," align="left" animation="fadeInDown" animation_delay="600" heading_typo_mobile=",20,,,,,Solid,,,," ele_margin="15px,0px,0px,0px"]
+
+
+
+Working Hours[/pl_heading]
+[pl_iconbox pagelayer-id="OWUmnX0RBQkOVQGX"  service_icon="far fa-clock" service_alignment="left" service_vertical_alignment="top" service_icon_view="default" service_icon_padding="15" service_icon_state="normal" service_icon_color="#222324ff" service_icon_font_size="24" service_icon_hover_delay="400" service_bor_state="normal" service_heading="Monday - Friday from 8:00 am to 11:30 pm" service_title_spacing="0,0,10,0" heading_state="normal" service_heading_color="#16191bff" service_heading_typo="Open Sans,17,,400,,,Solid,1.5,,," heading_delay="400" service_text_alignment="left" service_btn_hover_delay="400" service_icon_spacing="0,15,0,0" animation="fadeInUp" animation_delay="600"]
+
+
+<p><span style="font-family: Open Sans; font-size: 17px; color: #222;">Weekends from 9:00 am to 11:00 pm</span></p>[/pl_iconbox]
+[/pl_col]
+[/pl_row]
